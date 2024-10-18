@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Ritesh, a student at KLE Technological University, focused on web development and DevOps. As an open-source contributor, I'm always eager to collaborate on projects and explore innovative or disruptive ideas. Feel free to connect with me here! 
+I am Ritesh, currently a student, focused on web development and DevOps. As an open-source contributor, I'm always eager to collaborate on projects and explore innovative or disruptive ideas. Feel free to connect with me here! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-riteshhiremath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritesh-hiremath-692904222/)](www.linkedin.com/in/ritesh-hiremath-692904222)
 [![Instagram Badge](https://img.shields.io/badge/-_riteshhiremath-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_riteshhiremath/)](https://instagram.com/_riteshhiremath)
