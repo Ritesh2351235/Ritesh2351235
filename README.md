@@ -27,3 +27,5 @@ I am Ritesh, currently a student, focused on web development and DevOps. As an o
 
 
 [![An image of @ritesh2351235's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritesh2351235)](https://holopin.io/@ritesh2351235)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ritesh2351235&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
