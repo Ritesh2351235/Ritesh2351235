@@ -2,7 +2,7 @@
 
 I am Ritesh, a student at KLE Technological University, focused on web development and DevOps. As an open-source contributor, I'm always eager to collaborate on projects and explore innovative or disruptive ideas. Feel free to connect with me here! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ritesh-hiremath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritesh-hiremath-692904222/)](www.linkedin.com/in/ritesh-hiremath-692904222)
+[![Linkedin Badge](https://img.shields.io/badge/-riteshhiremath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritesh-hiremath-692904222/)](www.linkedin.com/in/ritesh-hiremath-692904222)
 [![Instagram Badge](https://img.shields.io/badge/-_riteshhiremath-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_riteshhiremath/)](https://instagram.com/_riteshhiremath)
 [![Gmail Badge](https://img.shields.io/badge/-riteshhiremath6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riteshhiremath6@gmail.com)](mailto:riteshhiremath6@gmail.com)
 
