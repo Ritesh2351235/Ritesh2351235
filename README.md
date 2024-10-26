@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Ritesh, currently a student, focused on web development and . As an open-source contributor, I'm always eager to collaborate on projects and explore innovative or disruptive ideas. Feel free to connect with me here! 
+I am Ritesh, currently a student, focused on web development and Devops. As an open-source contributor, I'm always eager to collaborate on projects and explore innovative or disruptive ideas. Feel free to connect with me here! 
 
 [![Portfolio](https://img.shields.io/badge/-riteshhiremath.com-black?style=flat-square&&logoColor=white&link=https://www.riteshhiremath.com)](https://www.riteshhiremath.com)
 [![Linkedin Badge](https://img.shields.io/badge/-riteshhiremath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritesh-hiremath-692904222)](https://www.linkedin.com/in/ritesh-hiremath-692904222)
